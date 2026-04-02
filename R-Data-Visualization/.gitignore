@@ -1,0 +1,14 @@
+# R artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Generated output images (optional: remove these lines to track outputs in git)
+outputs/*.png
+outputs/*.jpg
+outputs/*.jpeg
+
+# OS files
+.DS_Store
+Thumbs.db
